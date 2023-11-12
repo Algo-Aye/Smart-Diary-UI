@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+# Smart-Diary
+This is the GUI for the smar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
